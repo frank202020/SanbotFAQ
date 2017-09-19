@@ -2,9 +2,9 @@
 
 * [Introduction](README.md)
 * [Part 1.Sanbot Unbox FAQ](sanbot-unbox-faq.md)
-        [1.1 What’s in the box? ](1.1/q1.md)
-        [1.2 How to power on or power off Sanbot？](1.1/q2.md)
-        [1.3 What is the warranty period of Sanbot？](1.1/q3.md)
+       * [1.1 What’s in the box? ](1.1/q1.md)
+       * [1.2 How to power on or power off Sanbot？](1.1/q2.md)
+        *[1.3 What is the warranty period of Sanbot？](1.1/q3.md)
         1.4 How to use charging pile to auto recharge Sanbot？
         1.5 How to test Sanbot basic voice command？
         1.6 Where to download QLINK application？
